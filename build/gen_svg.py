@@ -347,9 +347,9 @@ DIVIDER = """<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="22" vi
   <defs>
     <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1120" y2="0">
       <stop offset="0%" stop-color="{a}" stop-opacity="0"/>
-      <stop offset="22%" stop-color="{a}" stop-opacity="0.35"/>
-      <stop offset="50%" stop-color="{b}" stop-opacity="0.55"/>
-      <stop offset="78%" stop-color="{a}" stop-opacity="0.35"/>
+      <stop offset="20%" stop-color="{a}" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="{b}" stop-opacity="0.85"/>
+      <stop offset="80%" stop-color="{a}" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="{a}" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="dot" cx="50%" cy="50%" r="50%">
@@ -357,7 +357,7 @@ DIVIDER = """<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="22" vi
       <stop offset="100%" stop-color="{b}" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <line x1="0" y1="11" x2="1120" y2="11" stroke="url(#d)" stroke-width="1.1"/>
+  <line x1="0" y1="11" x2="1120" y2="11" stroke="url(#d)" stroke-width="1.8"/>
   <g>
     <circle cx="-40" cy="11" r="12" fill="url(#dot)" opacity="0.5">
       <animate attributeName="cx" values="-20;1140;-20" dur="11s" repeatCount="indefinite"/>

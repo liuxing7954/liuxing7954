@@ -12,9 +12,8 @@
   <sub>把重复劳动交给机器，把判断留给自己。</sub>
 </div>
 
-<br/>
-
 <div align="center">
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
@@ -53,6 +52,7 @@
 <br/>
 
 <div align="center">
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
