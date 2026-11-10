@@ -14,6 +14,14 @@
 
 <br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-light.svg" width="100%" alt="">
+  </picture>
+</div>
+
 ## 关于
 
 - **Java / Spring 十年**：服务拆分、消息推送、任务调度、数据一致性，生产环境的坑基本趟过一遍。
@@ -43,6 +51,14 @@
 - 顺手把踩过的坑写成工具，能开源的就开源。
 
 <br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+    <img src="assets/divider-light.svg" width="100%" alt="">
+  </picture>
+</div>
 
 <div align="center">
   <br/>
