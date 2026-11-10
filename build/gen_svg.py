@@ -74,7 +74,7 @@ def terminal(p):
         spans = "".join(f'<tspan fill="{p[k]}">{escape(v)}</tspan>' for k, v in line)
         out.append(
             f'<text xml:space="preserve" x="{x+50}" y="{ly+4}" font-family="{MONO}" '
-            f'font-size="12.5" fill="{p["ident"]}">{spans}</text>'
+            f'font-size="13" fill="{p["ident"]}">{spans}</text>'
         )
 
     cy = base + 5 * 27
@@ -98,7 +98,7 @@ def build(mode):
         )
         cx += w + 10
 
-    stats = [("REPOS", "6"), ("STARS", "16"), ("SINCE", "2015")]
+    stats = [("REPOS", "7"), ("STARS", "16"), ("SINCE", "2015")]
     stats_svg, sx = [], 84
     for k, v in stats:
         stats_svg.append(
