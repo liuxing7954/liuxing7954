@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="360" viewBox="0 0 1120 360" role="img" aria-label="liuxing7954 — Java 后端 / 微信生态 / AI 工具链">
+  <title>liuxing7954</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070A12"/>
+      <stop offset="55%" stop-color="#0C1524"/>
+      <stop offset="100%" stop-color="#101B2E"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#EAF0FA"/>
+      <stop offset="68%" stop-color="#EAF0FA"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="rgba(34,211,238,0.20)"/>
+      <stop offset="100%" stop-color="rgba(34,211,238,0.20)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="rgba(139,92,246,0.18)"/>
+      <stop offset="100%" stop-color="rgba(139,92,246,0.18)" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="rgba(255,255,255,0.045)" stroke-width="1"/>
+    </pattern>
+    <filter id="softShadow" x="-25%" y="-25%" width="150%" height="160%">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#000" flood-opacity="0.26"/>
+    </filter>
+  </defs>
+
+  <rect width="1120" height="360" fill="url(#bg)"/>
+  <rect width="1120" height="360" fill="url(#grid)" opacity="0.5"/>
+  <ellipse cx="130" cy="70" rx="420" ry="280" fill="url(#g1)"/>
+  <ellipse cx="1000" cy="320" rx="380" ry="260" fill="url(#g2)"/>
+  <rect x="1" y="1" width="1118" height="358" fill="none" stroke="rgba(255,255,255,0.10)" stroke-width="2"/>
+
+  <g fill="none" stroke="#22D3EE" stroke-width="2.4" stroke-linecap="round" opacity="0.7">
+    <path d="M22 46V22h24"/><path d="M1098 314v24h-24"/>
+  </g>
+
+  <text x="84" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="3.2" fill="#22D3EE">GITHUB PROFILE</text>
+  <text x="278" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#5F7288">/ SINCE 2015</text>
+
+  <text x="82" y="160" font-family="ui-sans-serif,-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="60" font-weight="800" letter-spacing="-1.4" fill="url(#name)">liuxing7954</text>
+  <text x="84" y="198" font-family="ui-sans-serif,-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="18" font-weight="500" fill="#8FA1BC">Java 后端 · 微信生态 · AI 工具链</text>
+  <rect x="84" y="216" width="160" height="3" rx="1.5" fill="url(#rule)"/>
+
+  <g><rect x="84" y="246" width="171" height="30" rx="15" fill="rgba(34,211,238,0.10)" stroke="rgba(34,211,238,0.26)"/><text x="169" y="266" text-anchor="middle" font-family="ui-sans-serif,-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="12" font-weight="600" fill="#7DD3FC">Java · Spring</text></g><g><rect x="264.79999999999995" y="246" width="136" height="30" rx="15" fill="rgba(34,211,238,0.10)" stroke="rgba(34,211,238,0.26)"/><text x="333" y="266" text-anchor="middle" font-family="ui-sans-serif,-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="12" font-weight="600" fill="#7DD3FC">TypeScript</text></g><g><rect x="410.79999999999995" y="246" width="78" height="30" rx="15" fill="rgba(34,211,238,0.10)" stroke="rgba(34,211,238,0.26)"/><text x="450" y="266" text-anchor="middle" font-family="ui-sans-serif,-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="12" font-weight="600" fill="#7DD3FC">微信小程序</text></g><g><rect x="498.79999999999995" y="246" width="113" height="30" rx="15" fill="rgba(34,211,238,0.10)" stroke="rgba(34,211,238,0.26)"/><text x="555" y="266" text-anchor="middle" font-family="ui-sans-serif,-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="12" font-weight="600" fill="#7DD3FC">AI Agent</text></g>
+
+  <line x1="84" y1="306" x2="600" y2="306" stroke="rgba(255,255,255,0.10)" stroke-width="1"/>
+  <text x="84" y="330" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#5F7288">REPOS</text><text x="136" y="330" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="600" fill="#22D3EE">6</text><text x="196" y="330" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#5F7288">STARS</text><text x="248" y="330" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="600" fill="#22D3EE">16</text><text x="308" y="330" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#5F7288">SINCE</text><text x="360" y="330" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="600" fill="#22D3EE">2015</text>
+
+  <g filter="url(#softShadow)">
+<rect x="628" y="44" width="420" height="268" rx="16" fill="rgba(255,255,255,0.045)" stroke="rgba(255,255,255,0.10)" stroke-width="1.5"/>
+</g>
+<line x1="628" y1="88" x2="1048" y2="88" stroke="rgba(255,255,255,0.10)" stroke-width="1"/>
+<circle cx="650" cy="67" r="4.6" fill="#FF5F57" opacity="0.9"/>
+<circle cx="668" cy="67" r="4.6" fill="#FEBC2E" opacity="0.9"/>
+<circle cx="686" cy="67" r="4.6" fill="#28C840" opacity="0.9"/>
+<text x="704" y="71" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#5F7288" letter-spacing="0.3">profile.ts</text>
+<text x="662" y="124" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#5F7288" opacity="0.45">1</text>
+<text xml:space="preserve" x="678" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#DCE6F5"><tspan fill="#C084FC">const</tspan><tspan fill="#7C8CA6"> </tspan><tspan fill="#DCE6F5">profile</tspan><tspan fill="#7C8CA6"> = {</tspan></text>
+<text x="662" y="151" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#5F7288" opacity="0.45">2</text>
+<text xml:space="preserve" x="678" y="151" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#DCE6F5"><tspan fill="#7C8CA6">  stack:</tspan><tspan fill="#7C8CA6"> [</tspan><tspan fill="#6EE7B7">"Java"</tspan><tspan fill="#7C8CA6">, </tspan><tspan fill="#6EE7B7">"Spring"</tspan><tspan fill="#7C8CA6">],</tspan></text>
+<text x="662" y="178" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#5F7288" opacity="0.45">3</text>
+<text xml:space="preserve" x="678" y="178" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#DCE6F5"><tspan fill="#7C8CA6">  lang:</tspan><tspan fill="#7C8CA6">  [</tspan><tspan fill="#6EE7B7">"TypeScript"</tspan><tspan fill="#7C8CA6">, </tspan><tspan fill="#6EE7B7">"SQL"</tspan><tspan fill="#7C8CA6">],</tspan></text>
+<text x="662" y="205" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#5F7288" opacity="0.45">4</text>
+<text xml:space="preserve" x="678" y="205" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#DCE6F5"><tspan fill="#7C8CA6">  ship:</tspan><tspan fill="#7C8CA6">  </tspan><tspan fill="#6EE7B7">"微信小程序 · Agent 工具"</tspan><tspan fill="#7C8CA6">,</tspan></text>
+<text x="662" y="232" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#5F7288" opacity="0.45">5</text>
+<text xml:space="preserve" x="678" y="232" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#DCE6F5"><tspan fill="#7C8CA6">  motto:</tspan><tspan fill="#7C8CA6"> </tspan><tspan fill="#6EE7B7">"把重复劳动交给机器"</tspan><tspan fill="#7C8CA6">,</tspan></text>
+<text x="662" y="259" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#5F7288" opacity="0.45">6</text>
+<text xml:space="preserve" x="678" y="259" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#DCE6F5"><tspan fill="#7C8CA6">};</tspan></text>
+<rect x="700" y="248" width="7" height="15" rx="1" fill="#22D3EE"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.5s" repeatCount="indefinite"/></rect>
+</svg>
